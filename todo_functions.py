@@ -28,3 +28,4 @@ def view_todo(file_name):
                 print(f"Todo {row[0]} is complete")
             else:
                 print(f"Todo {row[0]} is not complete")
+                print("hello")
